@@ -1,0 +1,15 @@
+HOME APPLIANCE POWER USAGE REPORT
+=================================
+Tariff: GHS 1.00 per kWh
+High Consumption Threshold: 1.00 kWh/month
+
+ID      Name              Power(W)   Hours/Day   Quantity   Daily kWh   Monthly kWh 
+----------------------------------------------------------------------
+A001    Rice Coker        25.00      3.00        2          0.15        4.50        
+
+TOTAL DAILY ENERGY (kWh): 0.15
+TOTAL MONTHLY ENERGY (kWh): 4.50
+ESTIMATED MONTHLY COST (GHS): 4.50
+
+HIGH CONSUMPTION APPLIANCES:
+A001 - Rice Coker - 4.50 kWh/month
