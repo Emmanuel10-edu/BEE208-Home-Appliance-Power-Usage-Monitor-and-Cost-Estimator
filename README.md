@@ -208,19 +208,4 @@ This matches the expected sample output in the project question exactly. ✅
   **Solution:** Used a `vector<Appliance>` which grows automatically
   as new appliances are added.
 
-## 14. Individual Contribution Table
-
-| Student | Task Completed | Notes |
-|---|---|---|
-| Student 1 |  |  |
-| Student 2 |  |  |
-| Student 3 |  |  |
-| Student 4 |  |  |
-| Student 5 |  |  |
-| Student 6 |  |  |
-| Student 7 |  |  |
-| Student 8 |  |  |
-| Student 9 |  |  |
-| Student 10 |  |  |
-
 *(Each group member should fill in their actual contribution before submission.)*
