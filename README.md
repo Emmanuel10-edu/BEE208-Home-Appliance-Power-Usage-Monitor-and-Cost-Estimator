@@ -207,5 +207,3 @@ This matches the expected sample output in the project question exactly. ✅
   in advance how many the user will add.
   **Solution:** Used a `vector<Appliance>` which grows automatically
   as new appliances are added.
-
-*(Each group member should fill in their actual contribution before submission.)*
