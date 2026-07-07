@@ -25,16 +25,16 @@ that:
 
 | # | Name | Index Number | Responsibility |
 |---|------|---------------|-----------------|
-| 1 |  |  | Project lead and final coordination |
-| 2 |  |  | Problem statement and objectives |
-| 3 |  |  | Algorithm development |
-| 4 |  |  | Pseudocode development |
-| 5 |  |  | Flowchart design |
-| 6 |  |  | C++ class implementation |
-| 7 |  |  | Calculation and decision logic |
-| 8 |  |  | Testing and debugging |
-| 9 |  |  | GitHub repository and README documentation |
-| 10 |  |  | Presentation and defence preparation |
+| 1 | Kotei Emmanuel | 01243391B | Project lead |
+| 2 | Debrah Nana Kwesi  | 01245351B  | Problem statement presenter |
+| 3 | Klu Martin | 01243185B | Algorithm developer |
+| 4 | Obodai Joseph | 01242609B | Pseudocode writer |
+| 5 | Owiredu George Antwi | 01241871B | Flowchart designer |
+| 6 | Emmanuel Akwesi Abbam Egyin | 01246167B | C++ programmer |
+| 7 | Zogli Emmanuel Eli | 01243075B | Calculation and decision logic |
+| 8 | Sebbe Kwame Elorm | 01243004B  | Testing and debugging |
+| 9 | Fuseini Abdul Salim  | 01242729B | GitHub repository and README documentation manager |
+| 10 | Afful Kofi Baah  | 01243598B  | Presentation and defence preparation |
 
 *(Fill in your team's names and index numbers before submitting.)*
 
